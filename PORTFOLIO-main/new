@@ -1,0 +1,20 @@
+<img src="assets/WhatsApp Image 2025-04-28 at 11.25.27 AM.jpeg" alt="about" class="about__img" />          <a href="https://github.com/SatyamPratapSingh12219286" target="_blank" rel="noopener" class="btn work-btn">My Work</a>
+<img src="assets/WhatsApp Image 2025-04-28 at 11.26.08 AM.jpeg" alt="header" />
+<h1>Satyam Pratap Singh<br />Fullstack<br />Developer</h1><h2>Introduction</h2>
+<p class="section__description">
+  I'm Satyam Pratap Singh, a passionate web developer and computer science student at Lovely Professional University.
+  Skilled in C++, JavaScript, PHP, SQL, NodeJS, and React, I love solving real-world problems with technology and building scalable digital solutions.
+</p>
+<p class="section__description">
+    I'm Satyam Pratap Singh, a Computer Science student passionate about full-stack development and blockchain technologies.
+    I've developed projects like Chat Apps with Blockchain, E-Waste Management Systems, and AI-driven Tic-Tac-Toe games.
+    I excel in problem-solving, team collaboration, and continuously learning new technologies.
+  </p>
+  <div class="about__btn">
+    <a href="CV_Satyam.pdf" class="btn" download>Download CV</a>
+  </div>
+  <div class="contact__socials">
+    <a href="https://www.linkedin.com/in/satyam-pratap-singh-/" target="_blank" rel="noopener" title="Visit my LinkedIn profile"><i class="ri-linkedin-fill"></i></a>
+    <a href="https://github.com/SatyamPratapSingh12219286" target="_blank" rel="noopener" title="Visit my GitHub profile"><i class="ri-github-fill"></i></a>
+    <a href="mailto:satyampratapsingh53@gmail.com" title="Send me an email"><i class="ri-mail-fill"></i></a>
+  </div>
